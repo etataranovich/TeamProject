@@ -1,0 +1,390 @@
+[{
+	"id": 1,
+	"regNumber": "191764022",
+	"year": "2010",
+	"name": "Playtika",
+	"owner": {
+		"id": 3,
+		"name": "Alex",
+		"lastName": "Kazlouski",
+		"salary": 12967.57
+	},
+	"offices": [{
+		"id": 3,
+		"adress": {
+			"id": 3,
+			"street": "Platonova",
+			"house": "20B",
+			"city": "MINSK"
+		}
+	}, {
+		"id": 9,
+		"adress": {
+			"id": 8,
+			"street": "Brullova",
+			"house": "7",
+			"city": "KIEV"
+		}
+	}],
+	"economists": [{
+		"id": 2,
+		"name": "Iryna",
+		"lastName": "Khvalko",
+		"salary": 1115.17,
+		"analizeType": "Revenue per employee"
+	}],
+	"developers": [{
+		"id": 12,
+		"name": "Veronika",
+		"lastName": "Lepekha",
+		"salary": 1984.28,
+		"project": "New casinos game"
+	}, {
+		"id": 12,
+		"name": "Veronika",
+		"lastName": "Lepekha",
+		"salary": 1984.28,
+		"project": "Schatz"
+	}, {
+		"id": 6,
+		"name": "Alexander",
+		"lastName": "Kurilo",
+		"salary": 2471.43,
+		"project": "New casinos game"
+	}],
+	"sales": [{
+		"id": 17,
+		"name": "Anastasiya",
+		"lastName": "Siamionava",
+		"salary": 1215.65,
+		"clientCount": 3
+	}, {
+		"id": 10,
+		"name": "Alesia",
+		"lastName": "Semenenko",
+		"salary": 750.84,
+		"clientCount": 6
+	}],
+	"customers": [{
+		"id": 2,
+		"name": "LasCasinoVegas",
+		"address": {
+			"id": 12,
+			"street": "Sahara Avenue",
+			"house": "308W",
+			"city": "LASVEGAS"
+		}
+	}]
+}, {
+	"id": 2,
+	"regNumber": "190664298",
+	"year": "1998",
+	"name": "Wargaming.net",
+	"owner": {
+		"id": 16,
+		"name": "Victor",
+		"lastName": "Kislyi",
+		"salary": 22754.9
+	},
+	"offices": [{
+		"id": 2,
+		"adress": {
+			"id": 2,
+			"street": "Partyzanski",
+			"house": "178/2-38",
+			"city": "MINSK"
+		}
+	}, {
+		"id": 7,
+		"adress": {
+			"id": 6,
+			"street": "Obuhovsckoi oborony",
+			"house": "70-3A-41H",
+			"city": "SPETERSBURG"
+		}
+	}, {
+		"id": 8,
+		"adress": {
+			"id": 7,
+			"street": "Agion Omologion Avenue",
+			"house": "105-23885",
+			"city": "NICOSIA"
+		}
+	}],
+	"economists": [{
+		"id": 8,
+		"name": "Yuliya",
+		"lastName": "Khomich",
+		"salary": 1023.54,
+		"analizeType": "Total cost of ownership"
+	}, {
+		"id": 11,
+		"name": "Galina",
+		"lastName": "Tokareva",
+		"salary": 1450.54,
+		"analizeType": "Financial analysis"
+	}],
+	"developers": [{
+		"id": 9,
+		"name": "Anton",
+		"lastName": "Novikau",
+		"salary": 2100.0,
+		"project": "World of Tanks new"
+	}, {
+		"id": 9,
+		"name": "Anton",
+		"lastName": "Novikau",
+		"salary": 2100.0,
+		"project": "Schatz"
+	}],
+	"sales": [{
+		"id": 5,
+		"name": "Grigory",
+		"lastName": "Perepechko",
+		"salary": 1008.52,
+		"clientCount": 4
+	}, {
+		"id": 18,
+		"name": "Ivan",
+		"lastName": "Kavalchuk",
+		"salary": 1202.1,
+		"clientCount": 5
+	}],
+	"customers": [{
+		"id": 1,
+		"name": "NarayenComp",
+		"address": {
+			"id": 11,
+			"street": "Viguan Nagar Street",
+			"house": "402C",
+			"city": "NEWDELHI"
+		}
+	}, {
+		"id": 5,
+		"name": "Yuncken",
+		"address": {
+			"id": 15,
+			"street": "George Street",
+			"house": "269J",
+			"city": "SYDNEY"
+		}
+	}]
+}, {
+	"id": 3,
+	"regNumber": "191699514",
+	"year": "2010",
+	"name": "Viber",
+	"owner": {
+		"id": 15,
+		"name": "Dzhamel",
+		"lastName": "Agaua",
+		"salary": 15000.27
+	},
+	"offices": [{
+		"id": 4,
+		"adress": {
+			"id": 3,
+			"street": "Platonova",
+			"house": "20B",
+			"city": "MINSK"
+		}
+	}, {
+		"id": 11,
+		"adress": {
+			"id": 10,
+			"street": "Makedonitissas Street",
+			"house": "46/CY-2417",
+			"city": "TELAVIV"
+		}
+	}],
+	"economists": [{
+		"id": 2,
+		"name": "Iryna",
+		"lastName": "Khvalko",
+		"salary": 1005.77,
+		"analizeType": "Revenue per employee"
+	}, {
+		"id": 13,
+		"name": "Antonina",
+		"lastName": "Rovda",
+		"salary": 954.15,
+		"analizeType": "Financial analysis"
+	}],
+	"developers": [{
+		"id": 4,
+		"name": "Oleg",
+		"lastName": "Veramei",
+		"salary": 2000.03,
+		"project": "Vibers new"
+	}, {
+		"id": 4,
+		"name": "Oleg",
+		"lastName": "Veramei",
+		"salary": 2000.03,
+		"project": "Schatz"
+	}],
+	"sales": [],
+	"customers": [{
+		"id": 5,
+		"name": "Yuncken",
+		"address": {
+			"id": 15,
+			"street": "George Street",
+			"house": "269J",
+			"city": "SYDNEY"
+		}
+	}]
+}, {
+	"id": 4,
+	"regNumber": "101546673",
+	"year": "1993",
+	"name": "Epam Systems",
+	"owner": {
+		"id": 1,
+		"name": "Arkadii",
+		"lastName": "Dobkin",
+		"salary": 37520.51
+	},
+	"offices": [{
+		"id": 1,
+		"adress": {
+			"id": 1,
+			"street": "Akademika Kuprevicha",
+			"house": "1-1-110",
+			"city": "MINSK"
+		}
+	}, {
+		"id": 5,
+		"adress": {
+			"id": 4,
+			"street": "9-ya Radialnaya",
+			"house": "2",
+			"city": "MOSCOW"
+		}
+	}, {
+		"id": 6,
+		"adress": {
+			"id": 5,
+			"street": "Voronezhsaya",
+			"house": "5",
+			"city": "SPETERSBURG"
+		}
+	}, {
+		"id": 10,
+		"adress": {
+			"id": 9,
+			"street": "Mainzer Landstrasse",
+			"house": "49/49A-D60329",
+			"city": "FRANKFURTAMMAIN"
+		}
+	}],
+	"economists": [{
+		"id": 2,
+		"name": "Iryna",
+		"lastName": "Khvalko",
+		"salary": 1420.12,
+		"analizeType": "Revenue per employee"
+	}, {
+		"id": 8,
+		"name": "Yuliya",
+		"lastName": "Khomich",
+		"salary": 1200.86,
+		"analizeType": "Total cost of ownership"
+	}, {
+		"id": 11,
+		"name": "Galina",
+		"lastName": "Tokareva",
+		"salary": 1504.21,
+		"analizeType": "Financial analysis"
+	}],
+	"developers": [{
+		"id": 4,
+		"name": "Oleg",
+		"lastName": "Veramei",
+		"salary": 960.52,
+		"project": "Vibers new"
+	}, {
+		"id": 9,
+		"name": "Anton",
+		"lastName": "Novikau",
+		"salary": 1450.24,
+		"project": "World of Tanks new"
+	}, {
+		"id": 12,
+		"name": "Veronika",
+		"lastName": "Lepekha",
+		"salary": 750.26,
+		"project": "New casinos game"
+	}, {
+		"id": 7,
+		"name": "Andrei",
+		"lastName": "Navoichyk",
+		"salary": 2004.17,
+		"project": "Schatz"
+	}, {
+		"id": 12,
+		"name": "Veronika",
+		"lastName": "Lepekha",
+		"salary": 750.26,
+		"project": "Schatz"
+	}, {
+		"id": 4,
+		"name": "Oleg",
+		"lastName": "Veramei",
+		"salary": 960.52,
+		"project": "Schatz"
+	}, {
+		"id": 9,
+		"name": "Anton",
+		"lastName": "Novikau",
+		"salary": 1450.24,
+		"project": "Schatz"
+	}, {
+		"id": 14,
+		"name": "Pavel",
+		"lastName": "Pliatniou",
+		"salary": 2630.25,
+		"project": "Schatz"
+	}],
+	"sales": [{
+		"id": 17,
+		"name": "Anastasiya",
+		"lastName": "Siamionava",
+		"salary": 1000.0,
+		"clientCount": 3
+	}, {
+		"id": 18,
+		"name": "Ivan",
+		"lastName": "Kavalchuk",
+		"salary": 1003.54,
+		"clientCount": 5
+	}],
+	"customers": [{
+		"id": 1,
+		"name": "NarayenComp",
+		"address": {
+			"id": 11,
+			"street": "Viguan Nagar Street",
+			"house": "402C",
+			"city": "NEWDELHI"
+		}
+	}, {
+		"id": 3,
+		"name": "Hamquist",
+		"address": {
+			"id": 13,
+			"street": "Dogpatch Street",
+			"house": "2378CA",
+			"city": "SANFRACISKO"
+		}
+	}, {
+		"id": 4,
+		"name": "Renaistance",
+		"address": {
+			"id": 14,
+			"street": "Miller Street",
+			"house": "116K",
+			"city": "SYDNEY"
+		}
+	}]
+}]

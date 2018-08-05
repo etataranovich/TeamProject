@@ -1,0 +1,225 @@
+{
+	"itcompanies": [{
+			"name": "Playtika",
+			"regNumber": "191764022",
+			"year": "2010",
+			"offices": [{
+					"adress": {
+						"street": "Platonova",
+						"house": "20B",
+						"city": "MINSK",
+						"country": "BELARUS"
+					}
+				},
+				{
+					"adress": {
+						"street": "Brullova",
+						"house": "7",
+						"city": "KIEV",
+						"country": "UKRAINE"
+					}
+				}
+			],
+			"developers": [{
+				"name": "Alexander",
+				"last_name": "Kurilo",
+				"project": "New casinos game",
+				"salary": 2471.43
+			}],
+			"economists": [{
+				"name": "Iryna",
+				"last_name": "Khvalko",
+				"analize_type": "Revenue per employee",
+				"salary": 1115.17
+			}],
+			"sales": [{
+					"name": "Anastasiya",
+					"last_name": "Siamionava",
+					"client_count": 3,
+					"salary": 1215.65
+				},
+				{
+					"name": "Alesia",
+					"last_name": "Semenenko",
+					"client_count": 6,
+					"salary": 750.84
+				}
+			],
+			"owner": {
+				"name": "Alex",
+				"last_name": "Kazlouski",
+				"salary": 12967.57
+			},
+			"customers": [{
+				"name": "LasCasinoVegas",
+				"address": {
+					"street": "Sahara Avenue",
+					"house": "308W",
+					"city": "LASVEGAS",
+					"country": "USA"
+				}
+			}]
+		},
+		{
+			"name": "Wargaming.net",
+			"regNumber": "190664298",
+			"year": "1998",
+			"offices": [{
+					"adress": {
+						"street": "Agion Omologion Avenue",
+						"house": "105-23885",
+						"city": "NICOSIA",
+						"country": "CYPRUS"
+					}
+				},
+				{
+					"adress": {
+						"street": "Obuhovsckoi oborony",
+						"house": "70-3A-41H",
+						"city": "SPETERSBURG",
+						"country": "RUSSIA"
+					}
+				},
+				{
+					"adress": {
+						"street": "Partyzanski",
+						"house": "178/2-38",
+						"city": "MINSK",
+						"country": "BELARUS"
+					}
+				}
+			],
+			"developers": [{
+					"name": "Anton",
+					"last_name": "Novikau",
+					"project": "World of Tanks new",
+					"salary": 2100.00
+				},
+				{
+					"name": "Nikolai",
+					"last_name": "Kirsanov",
+					"project": "Prygozhdjar",
+					"salary": 2100.45
+				}
+			],
+			"economists": [{
+					"name": "Galina",
+					"last_name": "Tokareva",
+					"analize_type": "Financial analysis",
+					"salary": 1450.54
+				},
+				{
+					"name": "Yuliya",
+					"last_name": "Khomich",
+					"analize_type": "Total cost of ownership",
+					"salary": 1023.54
+				}
+			],
+			"sales": [{
+					"name": "Grigory",
+					"last_name": "Perepechko",
+					"client_count": 4,
+					"salary": 1008.52
+				},
+				{
+					"name": "Ivan",
+					"last_name": "Kavalchuk",
+					"client_count": 5,
+					"salary": 1202.1
+				}
+			],
+			"owner": {
+				"name": "Victor",
+				"last_name": "Kislyi",
+				"salary": 22754.9
+			},
+			"customers": [{
+					"name": "NarayenComp",
+					"address": {
+						"street": "Viguan Nagar",
+						"house": "402C",
+						"city": "NEWDELHI",
+						"country": "INDIA"
+					}
+				},
+				{
+					"name": "Yuncken",
+					"address": {
+						"street": "George Street",
+						"house": "269J",
+						"city": "SYDNEY",
+						"country": "AUSTRALIA"
+					}
+				}
+			]
+		},
+		{
+			"name": "Viber",
+			"regNumber": "191699514",
+			"year": "2010",
+			"offices": [{
+					"adress": {
+						"street": "Platonova",
+						"house": "20B",
+						"city": "MINSK",
+						"country": "BELARUS"
+					}
+				},
+				{
+					"adress": {
+						"street": "Makedonitissas",
+						"house": "46/CY-2417",
+						"city": "TELAVIV",
+						"country": "IZRAEL"
+					}
+				}
+			],
+			"developers": [{
+				"name": "Oleg",
+				"last_name": "Veramei",
+				"project": "Vibers new",
+				"salary": 2000.03
+			}],
+			"economists": [{
+					"name": "Iryna",
+					"last_name": "Khvalko",
+					"analize_type": "Revenue per employee",
+					"salary": 1005.77
+				},
+				{
+					"name": "Antonina",
+					"last_name": "Rovda",
+					"analize_type": "Financial analysis",
+					"salary": 954.15
+				}
+			],
+			"sales": [{
+					"name": "Anastasiya",
+					"last_name": "Siamionava",
+					"client_count": 3,
+					"salary": 1215.65
+				},
+				{
+					"name": "Alesia",
+					"last_name": "Semenenko",
+					"client_count": 6,
+					"salary": 750.84
+				}
+			],
+			"owner": {
+				"name": "Dzhamel",
+				"last_name": "Agaua",
+				"salary": 15000.27
+			},
+			"customers": [{
+				"name": "Hamquist",
+				"address": {
+					"street": "Dogpatch Street",
+					"house": "2378CA",
+					"city": "SANFRACISKO",
+					"country": "USA"
+				}
+			}]
+		}
+	]
+}
