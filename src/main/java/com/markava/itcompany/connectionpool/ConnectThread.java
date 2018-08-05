@@ -1,8 +1,12 @@
 package com.markava.itcompany.connectionpool;
 
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.util.Random;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import by.qa.connectionproject.connection.ConnectionPool;
 
 public class ConnectThread extends Thread {
 
@@ -17,8 +21,18 @@ public class ConnectThread extends Thread {
 	}
 
 	public void run() {
-		logger.log(Level.INFO, "ConThread is created");
-		conPool.getConnection();
+		Connection connection = null;
+		Random random = new Random();
+		try {
+			connection = ConnectionPool.getInstance().getConnection();
+			Thread.sleep(1000 + random.nextInt(2000));
+		} catch (SQLException e) {
+			logger.log(Level.ERROR, "Thread error", e);
+		} catch (InterruptedException e) {
+			logger.log(Level.ERROR, "Thread error", e);
+		} finally {
+			ConnectionPool.getInstance().releaseConnection(connection);
+		}
 	}
 
 	public static void main(String[] args) {
@@ -29,6 +43,4 @@ public class ConnectThread extends Thread {
 			thread.start();
 		}
 	}
-
-	// =======================================================
 }
