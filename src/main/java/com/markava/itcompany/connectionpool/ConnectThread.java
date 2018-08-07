@@ -20,7 +20,7 @@ public class ConnectThread extends Thread {
 		this.conPool = conPool;
 	}
 
-	public void run() {
+	public void runAway() {
 		Connection connection = null;
 		Random random = new Random();
 		try {
